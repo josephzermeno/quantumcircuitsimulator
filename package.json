@@ -1,0 +1,38 @@
+{
+  "name": "quantumcircuitsimulator",
+  "version": "1.0.0",
+  "description": "web application for simulating quantum circuits",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephzermeno/quantumcircuitsimulator.git"
+  },
+  "keywords": [
+    "quantum",
+    "circuit",
+    "simulator",
+    "qubit",
+    "algorithm",
+    "entanglement",
+    "computing",
+    "gates",
+    "hermitian",
+    "visualizer",
+    "modeling",
+    "ai"
+  ],
+  "author": "Joseph Zermeno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephzermeno/quantumcircuitsimulator/issues"
+  },
+  "homepage": "https://github.com/josephzermeno/quantumcircuitsimulator#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
