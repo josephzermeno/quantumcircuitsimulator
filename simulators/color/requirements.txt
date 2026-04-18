@@ -1,0 +1,8 @@
+qiskit
+qiskit-aer
+numpy
+matplotlib
+opencv-python
+colormath
+colorspacious
+pylatexenc
